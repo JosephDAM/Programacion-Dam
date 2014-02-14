@@ -6,7 +6,7 @@ public class Area {
 
 	public static void main(String[] args) {
 		double base, area, altura;
-		
+		System.out.println("Bienvenidos al calculador de areas. ");
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Base: ");
 		base=sc.nextDouble();
